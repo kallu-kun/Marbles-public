@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu.unity
+    guid: cc87e9758f15e7849b1047e11588e8ed
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 0485644dd8d6a944d8cd06a507392f9c
+  - enabled: 1
+    path: Assets/Scenes/WaltteriLevel1.unity
+    guid: a8fb217d36949f74aa90b8cd03f7b705
+  - enabled: 1
+    path: Assets/Scenes/WaltteriLevel2.unity
+    guid: 114ee3cde4184894ca896998d28f5488
+  - enabled: 1
+    path: Assets/Scenes/WaltteriLevel3.unity
+    guid: 14cd722313caf7b44917ed4483712223
+  - enabled: 1
+    path: Assets/Scenes/WaltteriLevel4.unity
+    guid: 21858d14ba3a44644bd1ba153b58c977
+  - enabled: 1
+    path: Assets/Scenes/WaltteriLevel5.unity
+    guid: 321d2fd92767df742b58ce2f2275ede2
+  - enabled: 1
+    path: Assets/Scenes/WaltteriLevel6.unity
+    guid: fcbe21006e86f384f891e6d401eaef17
+  - enabled: 1
+    path: Assets/Scenes/WaltteriLevel7.unity
+    guid: 47d14694d956abd428cf6b7ec726a190
+  - enabled: 1
+    path: Assets/Scenes/WaltteriLevel8.unity
+    guid: 8c120039b0aa589469d9b3dbcc991251
+  - enabled: 1
+    path: Assets/Scenes/WaltteriLevel9.unity
+    guid: 120604f1221888f48a44f5b371a9e68f
+  - enabled: 1
+    path: Assets/Scenes/WaltteriLevel10.unity
+    guid: d53104d75aca99441a03a400127c6ab0
+  - enabled: 1
+    path: Assets/Scenes/WaltteriLevel11.unity
+    guid: 8cb21c459f50b8a47960934875a84d43
+  - enabled: 1
+    path: Assets/Scenes/Menu/SalaScene.unity
+    guid: 45782bbd00a6a214d9bf3f62b6126a4f
+  m_configObjects: {}
